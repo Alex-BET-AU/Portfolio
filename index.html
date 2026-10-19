@@ -440,7 +440,7 @@ document.addEventListener("click",e=>{
 /* =============== Werdegang, Kenntnisse, Kontakt =============== */
 $("tl").innerHTML=WERDEGANG.map(w=>'<div class="step '+esc(w.typ.toLowerCase())+'"><div class="when">'+esc(w.zeitraum)+'<span class="typ">'+esc(w.typ)+'</span></div><h3>'+esc(w.titel)+'</h3><div class="where">'+esc(w.ort)+'</div>'+(w.text?"<p>"+esc(w.text)+"</p>":"")+"</div>").join("");
 $("skills").innerHTML='<div class="skl">'+KENNTNISSE.map(g=>'<div class="sk '+esc(g.farbe||"grey")+'"><h3>'+esc(g.gruppe)+'</h3><div class="pills">'+g.items.map(t=>"<span>"+esc(t)+"</span>").join("")+"</div></div>").join("")+"</div>";
-$("kp").textContent="Ich freue mich über Anfragen zu Praktika, Werkstudentenstellen und Abschlussarbeiten in Automatisierung, Elektronik und Antriebstechnik.";
+$("kp").textContent="Ich freue mich über Anfragen zu Werkstudentenstellen in Automatisierung, Elektronik und Programmieren.";
 $("kmail").href=mail;$("kmail").textContent=S.kontakt.mail;
 $("terms").innerHTML=S.kontakt.links.filter(l=>l.href).map(l=>'<a target="_blank" rel="noreferrer" href="'+esc(l.href)+'"><small>'+esc(l.label)+'</small>'+esc(l.text)+'</a>').join("")+
   (S.kontakt.standort?'<div><small>Standort</small>'+esc(S.kontakt.standort)+'</div>':"");

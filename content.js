@@ -23,7 +23,7 @@ const SITE = {
   status: "Offen für Werkstudentenstelle",
   verfuegbar: "Zum nächstmöglichen Zeitpunkt (unter Berücksichtigung meiner aktuellen Kündigungsfrist)",                       // z. B. "ab März 2027"
 
-  pitch: "Ich arbeite am liebsten dort, wo Elektronik, Steuerung und Software zusammenkommen: von der Siebensegmentanzeige am Mikrocontroller bis zur Förderbandstrecke an der S7-1500.",
+  pitch: "Mich begeistert die Verbindung von Elektrotechnik, Automatisierung und Softwareentwicklung. Besonders motiviert mich, technische Zusammenhänge zu verstehen, praktische Lösungen zu entwickeln und mein Wissen bei neuen Herausforderungen kontinuierlich zu erweitern.",
 
   foto: "images/portrait.jpg",          // optional: Foto im Typenschild
   lebenslauf: "images/lebenslauf.pdf",  // optional: PDF in images/ legen, sonst ""

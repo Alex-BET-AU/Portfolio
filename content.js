@@ -111,6 +111,7 @@ const PROJEKTE = [
     tags: ["AT89C51CC03", "MAX7219", "Siebensegment"],
     kurz: "Achtstellige Siebensegmentanzeige am MAX7219 mit Uhrzeit und Zug-Animation angesteuert.",
     text: "Im Modul Mikroprozessortechnik arbeitete ich mit dem Mikrocontroller AT89C51CC03 und programmierte verschiedene Anwendungen in µC. Eine Laboraufgabe umfasste die Ansteuerung einer achtstelligen Siebensegmentanzeige über den MAX7219. Hierfür implementierte ich die bitweise Datenübertragung, konfigurierte die Steuerregister und entwickelte Funktionen zur Uhrzeitanzeige sowie zur Animation eines Zuges. Die Auswahl der Anzeigefunktionen erfolgte über ein serielles Menü.",
+    text: "https://github.com/Alex-BET-AU/Mikroprozessortechnik",
     specs: [["Controller", "AT89C51CC03"], ["Programmiersprache", "µC"], ["Laboraufgabe", "MAX7219, Uhrzeitanzeige, ICE-Animation"]],
     bilder: [ { src: "images/mikro.jpg", caption: "Versuchsaufbau mit AT89C51CC03 und MAX7219" },
   { src: "images/mikroprozessortechnikundcode.jpg", caption: "Programmierung und Test der Anzeigesteuerung" },],

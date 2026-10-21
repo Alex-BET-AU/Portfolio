@@ -245,7 +245,7 @@
       "title": "Elektrische Maschinen",
       "subtitle": "Asynchronmaschinen vermessen, Frequenzumrichter untersucht, Verluste bestimmt.",
       "kind": "Laborversuch",
-      "category": "Antriebstechnik",
+      "category": "Transformator",
       "color": "red",
       "tags": [
         "Asynchronmaschine",

@@ -200,7 +200,7 @@
       "title": "SPS und Automatisierungstechnik",
       "subtitle": "S7-1500 programmiert, Barcodescanner per PROFIBUS angebunden, Förderband am HMI-Panel bedient.",
       "kind": "Laborversuch",
-      "category": "Steuerungstechnik / Sensorik",
+      "category": "Automatisierungstechnik",
       "color": "blue",
       "tags": [
         "S7-1500",

@@ -370,6 +370,11 @@
           "src": "images/mikroprozessortechnikundcode.jpg",
           "caption": "Programmierung und Test der Anzeigesteuerung",
           "type": "image"
+        },
+        {
+          "src": "images/ppu5alles.png",
+          "caption": "Arbeitsweise mit Dokumenten",
+          "type": "image"
         }
       ],
       "link": {
